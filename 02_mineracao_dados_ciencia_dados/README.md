@@ -38,5 +38,3 @@ Esta pasta contém **apenas os notebooks das atividades práticas realizadas dur
 - experimentos com algoritmos de mineração de dados
 - análises exploratórias de dados
 - projeto final da disciplina
-
-Todos os arquivos estão no formato:
