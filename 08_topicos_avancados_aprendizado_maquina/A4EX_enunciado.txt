@@ -1,0 +1,47 @@
+
+- Entre no Google colab
+- Copie os blocos abaixo, cada um em uma célula
+- Em "Ambiente de Execução", escolha "Alterar o tipo de ambiente de execução"
+  e escolha GPU
+- Execute as células. No carregamento dos arquivos, escolha imagens com
+  objetos comuns, mas também não-usuais e em situações mais desafiadoras
+  (parcialmente ocultas, muito pequenas, etc)
+
+  
+# 1. Instalar Ultralytics
+!pip install ultralytics
+
+# 2. Importar as bibliotecas necessárias
+from ultralytics import YOLO
+from google.colab import files
+import cv2
+from google.colab.patches import cv2_imshow
+import os
+
+
+# 3. Carregar um YOLOv8 nano pré-treinado 
+model = YOLO('yolov8n.pt')
+
+
+# 4. Carregar imagens do seu computador
+# Serão armazenados na pasta contents (clicar ícone de
+# fichário mostrado no painel à esquerda)
+uploaded = files.upload()
+# Calcular a predição sobre os arquivos carregados
+for filename in uploaded.keys():
+    print(f"Processing {filename}")
+    results = model.predict(source=filename, conf=0.25, save=True)
+
+    # A imagem resultante com os BBs foi salva na
+    # subpasta runs/detect/predict/
+    print(f"Results saved for {filename}")
+
+
+# 5. Fazer o display dos resultados
+# Se preferir, mude o código para ver um resultado apenas por vez
+import glob
+results_path = glob.glob('runs/detect/predict/*.jpg')
+print(results_path)
+for i in range(len(results_path)):
+    img = cv2.imread(results_path[i])
+    cv2_imshow(img)
