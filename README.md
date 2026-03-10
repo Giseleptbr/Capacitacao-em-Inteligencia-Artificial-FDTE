@@ -1,4 +1,4 @@
-![Projetos]()I - Capacitação em Inteligência Artificial](./Projetos PPI - Capacitação em Inteligência Artificial.png)
+Capacitação em Inteligência Artificial](./Projetos PPI - Capacitação em Inteligência Artificial.png)
 
 # Capacitação em Inteligência Artificial – FDTE
 
