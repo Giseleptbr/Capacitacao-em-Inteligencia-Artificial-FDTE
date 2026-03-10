@@ -1,35 +1,22 @@
-# Capacitacao-em-Inteligencia-Artificial-FDTE
-# 01 - Programação para Ciência de Dados (PCD)
+![Projetos]()I - Capacitação em Inteligência Artificial](./Projetos PPI - Capacitação em Inteligência Artificial.png)
 
-Esta pasta contém os **notebooks desenvolvidos durante a disciplina Programação para Ciência de Dados**, parte do programa **Capacitação em Inteligência Artificial da FDTE (2025)**.
+# Capacitação em Inteligência Artificial – FDTE
 
-A disciplina introduz os fundamentos de programação e manipulação de dados em Python voltados para aplicações em ciência de dados.
+Este repositório reúne os materiais, códigos e atividades desenvolvidos durante o programa **Capacitação em Inteligência Artificial**, promovido pela Fundação para o Desenvolvimento Tecnológico da Engenharia (FDTE) em parceria com a Universidade Federal do Ceará (UFC).
 
----
+O programa faz parte de uma iniciativa nacional voltada à formação de profissionais em tecnologias avançadas de Inteligência Artificial, integrando academia, indústria e instituições de inovação. A iniciativa busca desenvolver competências técnicas e empreendedoras em IA para atender às demandas da transformação digital em diferentes setores da economia. :contentReference[oaicite:0]{index=0}
 
-# Conteúdos abordados na disciplina
+A capacitação é estruturada em múltiplas fases. A primeira etapa consiste em uma **formação teórica intensiva**, com carga horária aproximada de **360 horas distribuídas ao longo de cinco meses**, abordando fundamentos e aplicações de Inteligência Artificial, Ciência de Dados e Aprendizado de Máquina. :contentReference[oaicite:1]{index=1}
 
-Durante o curso foram abordados os principais fundamentos utilizados no ecossistema de ciência de dados em Python, incluindo:
+Durante o programa, os participantes estudam e desenvolvem atividades práticas em áreas como:
 
-- fundamentos de programação para análise de dados
-- estruturas de dados e algoritmos básicos
-- manipulação de arrays com **NumPy**
-- manipulação e transformação de dados com **Pandas**
-- análise exploratória de dados (**EDA**)
-- pré-processamento e limpeza de dados
-- transformação e normalização de dados
-- fundamentos de análise de **séries temporais**
-- manipulação de **dados multidimensionais**
+- Programação para Ciência de Dados  
+- Mineração de Dados e Ciência de Dados  
+- Estatística Aplicada  
+- Aprendizado de Máquina  
+- Tópicos Avançados em Machine Learning  
+- Processamento de Linguagem Natural  
+- Visão Computacional  
+- Inteligência Artificial aplicada a negócios  
 
-As atividades foram desenvolvidas utilizando **Jupyter Notebooks executados no Google Colab**.
-
----
-
-# Conteúdo desta pasta
-
-Esta pasta contém **apenas os notebooks das atividades práticas realizadas durante a disciplina**, incluindo:
-
-- exercícios das aulas
-- atividades guiadas
-- entregas quinzenais
-- projeto integrador final
+Este repositório tem como objetivo **documentar a trajetória de aprendizado ao longo da capacitação**, organizando os notebooks, exercícios e experimentos realizados em cada disciplina do programa.
