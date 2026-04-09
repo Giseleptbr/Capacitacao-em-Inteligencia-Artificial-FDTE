@@ -1,27 +1,23 @@
-# Capacitação em Inteligência Artificial — FDTE
+# Capacitação em Inteligência Artificial FDTE
 
 > Repositório de anotações, notebooks e atividades da Capacitação Técnica e Empreendedora em Inteligência Artificial (CTE-IA), promovida pela **FDTE** em parceria com a **UFC**.
 
 ---
+> ** Nota sobre o conteúdo:**
+> Este repositório contém apenas os notebooks desenvolvidos por mim durante o programa — exercícios resolvidos, atividades e projetos práticos de minha autoria.
+> Slides das aulas e notebooks originais dos professores **não estão incluídos**, pois não são de minha autoria.
 
-## 🎓 Sobre o Programa
+
+
+## Sobre o Programa
 
 O **CTE-IA** (Residência em TIC 44 – Capacitação Técnica e Empreendedora em Inteligência Artificial) é um programa de formação intensiva em Inteligência Artificial oferecido pela [Fundação para o Desenvolvimento Tecnológico da Engenharia (FDTE)](https://www.fdte.org.br/) em parceria com a Universidade Federal do Ceará (UFC).
 
-O programa tem como objetivo capacitar estudantes e profissionais para atuar na área de IA, com foco em Ciência de Dados, Aprendizado de Máquina, Visão Computacional e Processamento de Linguagem Natural, com aplicações práticas em diferentes setores como indústria, saúde, energia e negócios.
-
-### Formato
-- 📡 Aulas teóricas remotas e síncronas, via videoconferência
-- 💻 Aulas práticas semanais com notebooks no Google Colab
-- 📝 Atividades e projetos integradores ao final de cada disciplina
-- 🏆 Os 50 melhores alunos da fase teórica são convidados para a **Fase II — Residência Tecnológica**, com bolsa de R$ 1.800/mês por até 10 meses
-
-### Público-alvo
-Estudantes e profissionais graduados nas áreas de Ciência da Computação, Engenharia de Computação, Sistemas de Informação, Engenharia Elétrica, Eletrônica e áreas correlatas.
+O programa teve como objetivo capacitar estudantes e profissionais para atuar na área de IA, com foco em Ciência de Dados, Aprendizado de Máquina, Visão Computacional e Processamento de Linguagem Natural, com aplicações práticas em diferentes setores como indústria, saúde, energia e negócios.
 
 ---
 
-## 📅 Período
+##  Período
 
 **Outubro de 2025 — Fevereiro de 2026** (~5 meses)
 
@@ -35,7 +31,7 @@ Estudantes e profissionais graduados nas áreas de Ciência da Computação, Eng
 
 ---
 
-## 📚 Conteúdo Estudado
+## Conteúdo Estudado
 
 ### 01 · Programação para Ciência de Dados (PCD)
 Fundamentos de Python para análise de dados, com foco nas principais bibliotecas do ecossistema científico.
@@ -180,10 +176,10 @@ Técnicas de computação de alto desempenho aplicadas ao treinamento de modelos
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
-📦 Capacitacao-em-Inteligencia-Artificial-FDTE
+ Capacitacao-em-Inteligencia-Artificial-FDTE
 ├── 01 - Programação para Ciência de Dados (PCD)
 ├── 02 - Fundamentos de Mineração de Dados e Ciência de Dados
 ├── 03 - Aprendizado de Máquina (AMQ)
@@ -197,7 +193,7 @@ Técnicas de computação de alto desempenho aplicadas ao treinamento de modelos
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Gisele Fonseca**
 [github.com/Giseleptbr](https://github.com/Giseleptbr)
