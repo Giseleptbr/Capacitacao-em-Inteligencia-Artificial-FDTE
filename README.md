@@ -155,7 +155,7 @@ Técnicas de computação de alto desempenho aplicadas ao treinamento de modelos
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch)
